@@ -24,7 +24,7 @@ $ cpm [i|r|l|u|U|s|S|I|F|f|c|h] [pkg]...
 ## Installation
 
 ```bash
-git clone https://github.com/willeccles/cpm.git
+git clone https://github.com/sophec/cpm.git
 cd cpm
 sudo make install
 ```
